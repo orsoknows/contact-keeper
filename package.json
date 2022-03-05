@@ -1,0 +1,20 @@
+{
+  "name": "contact-keeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orsoknows/contact-keeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orsoknows/contact-keeper/issues"
+  },
+  "homepage": "https://github.com/orsoknows/contact-keeper#readme"
+}
