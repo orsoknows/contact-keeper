@@ -3,17 +3,17 @@
 # dependencies
 /node_modules
 /client/node_modules
-/.pnp
+/client/.pnp
 .pnp.js
 
 # secret
 config/default.json
 
 # testing
-/coverage
+/client/coverage
 
 # production
-/build
+/client/build
 
 # misc
 .DS_Store
